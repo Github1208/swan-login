@@ -1,0 +1,22 @@
+{
+    "appid": "11182003",
+    "compilation-args": {
+        "common": {
+            "enhance": true
+        }
+    },
+    "host": "baiduboxapp",
+    "preview": {
+        "packageId": 744343
+    },
+    "projectname": "login",
+    "setting": {
+        "urlCheck": false
+    },
+    "swan": {
+        "baiduboxapp": {
+            "extensionJsVersion": "1.20.6",
+            "swanJsVersion": "3.250.33"
+        }
+    }
+}

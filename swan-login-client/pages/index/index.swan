@@ -1,0 +1,14 @@
+<!-- index.swan -->
+<view class="container">
+    <view class="logo">
+    </view>
+    <view class="userinfo">
+        <button class="userinfo-login-btn" open-type="getPhoneNumber" type="primary" bindgetphonenumber="getphonenumber"> 获取用户手机号 </button>
+
+        <view class="photo">
+            <view class="label">手机号：</view>
+            <view class="content">{{photo}}</view>
+        </view>
+    </view>
+    </view>
+</view>

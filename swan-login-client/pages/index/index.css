@@ -1,0 +1,24 @@
+/**
+ * @file index.css
+ * @author swan
+ */
+.logo {
+    width: 375rpx;
+    height: 60rpx;
+    background-image: url("../../images/smartapp.png");
+    background-size: 375rpx;
+}
+
+.userinfo-login-btn {
+    margin: 30px 10px;
+}
+
+.photo {
+    margin-top: 30px;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+    background-color: #f3f3f3;
+    box-sizing: border-box;
+}
